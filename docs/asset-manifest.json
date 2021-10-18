@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/static/js/main.b32d5988.chunk.js",
+    "main.js.map": "/static/js/main.b32d5988.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8634cae5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8634cae5.js.map",
+    "static/css/2.e6c1e8c5.chunk.css": "/static/css/2.e6c1e8c5.chunk.css",
+    "static/js/2.edd5be0c.chunk.js": "/static/js/2.edd5be0c.chunk.js",
+    "static/js/2.edd5be0c.chunk.js.map": "/static/js/2.edd5be0c.chunk.js.map",
+    "static/js/3.d9c28605.chunk.js": "/static/js/3.d9c28605.chunk.js",
+    "static/js/3.d9c28605.chunk.js.map": "/static/js/3.d9c28605.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e6c1e8c5.chunk.css.map": "/static/css/2.e6c1e8c5.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.edd5be0c.chunk.js.LICENSE.txt": "/static/js/2.edd5be0c.chunk.js.LICENSE.txt",
+    "static/media/field.jpg": "/static/media/field.d3d04d27.jpg",
+    "static/media/lake.jpg": "/static/media/lake.28d3ef87.jpg",
+    "static/media/logo_cci.jpg": "/static/media/logo_cci.77a7f711.jpg",
+    "static/media/redwood.jpg": "/static/media/redwood.f0caf3fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8634cae5.js",
+    "static/css/2.e6c1e8c5.chunk.css",
+    "static/js/2.edd5be0c.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.b32d5988.chunk.js"
+  ]
+}
